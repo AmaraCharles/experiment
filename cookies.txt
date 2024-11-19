@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.premiertrust.com	TRUE	/the-nevada-advantage	FALSE	1999999999	RecentRedirect	1:1732025746:0aVFKKlfMVIZ0/JM5Y81qZy6gi703c7Ddzpr5sPmPZI=
+www.premiertrust.com	TRUE	/personal-trusts	FALSE	1999999999	RecentRedirect	1:1732025344:ck/WwlrOo5g92dJaEkD0CzCklr+j8SkBrLzFVRkJz2c=
+www.premiertrust.com	TRUE	/	FALSE	1999999999	crumb	BReR2Okjpwq5OGI4MDE3NzEwMTA0Y2QzZjIwNzJjZGU0M2I2NDZh
+www.squarerefresh.xyz	TRUE	/	FALSE	1999999999	crumb	BQWdJxNdQnkTYjNiY2VmYjcxMWJhNjNjOWEyZjA1ZDI3ZDI4ZDZi
+
